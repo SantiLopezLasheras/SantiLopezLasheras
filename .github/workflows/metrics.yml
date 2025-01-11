@@ -39,5 +39,5 @@ jobs:
         run: |
           echo "![Programming Languages](metrics.plugin.starlists.languages.svg)" >> README.md
           git add README.md
-          git commit -m "Add language metrics to README"
+          git commit -m "Add languages metrics to README"
           git push
